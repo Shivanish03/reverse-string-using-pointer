@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("\n\n\t\tbasic c programming\n\n\n");
 
     char str[100];
     char rev[100];
